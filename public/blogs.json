@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co.com/dkSPTLD/pexels-aqtai-2233416.jpg",
+      "title": "Understanding the Pillars of Islam",
+      "author_name": "Dr. Ali Al-Hakim",
+      "author_img": "https://i.ibb.co.com/1sNvsvd/profile.jpg",
+      "reading_time": 8,
+      "posted_date": "2024-11-01",
+      "hashtags": ["#Islam", "#PillarsOfIslam", "#Faith", "#Guidance"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co.com/hHyNQy5/pexels-konevi-2236674.jpg",
+      "title": "The Importance of Daily Prayers",
+      "author_name": "Sister Aisha Khalid",
+      "author_img": "https://i.ibb.co.com/1sNvsvd/profile.jpg",
+      "reading_time": 6,
+      "posted_date": "2024-10-29",
+      "hashtags": ["#Prayer", "#IslamicPractice", "#Salah", "#DailyLife"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co.com/xXXJXtm/pexels-becca-siegel-792310-1659294.jpg",
+      "title": "Charity in Islam: Zakat and Sadaqah",
+      "author_name": "Imam Yusuf Khan",
+      "author_img": "https://i.ibb.co.com/1sNvsvd/profile.jpg",
+      "reading_time": 10,
+      "posted_date": "2024-10-15",
+      "hashtags": ["#Charity", "#Zakat", "#Sadaqah", "#HelpingOthers"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co.com/6WrYCfK/pexels-umaraffan499-394355.jpg",
+      "title": "Fasting in Ramadan: Spiritual Benefits",
+      "author_name": "Shaykh Ahmad Al-Mansur",
+      "author_img": "https://i.ibb.co.com/1sNvsvd/profile.jpg",
+      "reading_time": 7,
+      "posted_date": "2024-09-27",
+      "hashtags": ["#Ramadan", "#Fasting", "#Spirituality", "#Islam"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co.com/fxtW7N9/pexels-iva-prime-965303-2028187.jpg",
+      "title": "The Role of Women in Islam",
+      "author_name": "Dr. Farah Noor",
+      "author_img": "https://i.ibb.co.com/1sNvsvd/profile.jpg",
+      "reading_time": 9,
+      "posted_date": "2024-08-30",
+      "hashtags": ["#WomenInIslam", "#IslamicTeachings", "#Equality", "#Respect"]
+    }
+  ]
+  
